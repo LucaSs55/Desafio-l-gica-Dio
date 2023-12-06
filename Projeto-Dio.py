@@ -1,0 +1,1 @@
+xp = int(input('Digite o valor da experiência do herói:'))
