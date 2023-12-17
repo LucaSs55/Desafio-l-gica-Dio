@@ -4,7 +4,11 @@ print(20*'+=')
 
 nome = str(print('Digite o nome do héroi:'))
 xp = int(input('Digite a experiência do herói: (XP)'))
+<<<<<<< HEAD
 if xp < 1000:git
+=======
+if xp < 1000:
+>>>>>>> 30bb4f0d85650a5f198f84675875b32611c9d1fe
     print('Classificação: Ferro')
 elif xp >= 1001 and xp <= 2000:
     print('Classificação: Bronze')
